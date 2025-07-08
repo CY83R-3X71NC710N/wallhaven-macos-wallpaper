@@ -3,3 +3,4 @@ I personally recommend bulk downloading and then setting the wallpaper as the fo
 ```
 https://bulkimagedownloader.com
 ```
+- Windows only so use a virtual machine with a shared folder to macOS
